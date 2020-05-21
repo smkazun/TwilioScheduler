@@ -1,5 +1,5 @@
 # TwilioScheduler
-A scheduler that sends out a birthday message to users at the beginning of the month. This was a fun coding challenge I did a few months ago, though it is lacking unit tests at the moment.
+A scheduler that sends out a birthday message to users at the beginning of the month. This was a fun coding challenge I did around March 2020, though it is lacking unit tests at the moment.
 
 To use this application you must have the following:
 
